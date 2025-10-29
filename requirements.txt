@@ -1,0 +1,44 @@
+# ============================================
+# Requirements para Projeto de ML
+# Introdução a Machine Learning - 2025.1
+# ============================================
+
+# Manipulação de Dados
+pandas==2.3.3
+numpy==2.1.2
+
+# Visualização
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Machine Learning - Scikit-learn
+scikit-learn==1.5.0
+
+# Gradient Boosting
+xgboost==1.7.5
+lightgbm==3.3.5
+
+# Jupyter
+jupyter==1.0.0
+jupyterlab==3.6.3
+ipykernel==6.22.0
+
+# Utilidades
+joblib==1.2.0
+scipy==1.16.3   # ← ALTERADO AQUI
+
+# Progress bars (opcional)
+tqdm==4.65.0
+
+# Interpretabilidade (opcional - para bônus)
+shap==0.41.0
+
+# Deploy (opcional - para bônus)
+streamlit==1.22.0
+flask==2.3.2
+
+# Qualidade de Código (opcional - recomendado)
+flake8==6.0.0
+black==23.3.0
+autopep8==2.0.2
