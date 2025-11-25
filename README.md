@@ -11,9 +11,9 @@ Bruno João da Silva - 01193399
 
 ## - 1° Etapa
 ## - 2° Etapa
+## - 3° Etapa
 
 # Etapas Não-Concluidas:
 
-- 3° Etapa
 - 4° Etapa
 
